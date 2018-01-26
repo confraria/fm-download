@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const args = require('args');
 const FrontendMasters = require('./lib/client');
 
