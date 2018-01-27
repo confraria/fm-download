@@ -1,4 +1,6 @@
 # Frontend masters course download tool
+[![npm version](http://img.shields.io/npm/v/fm-download.svg?style=flat)](https://npmjs.org/package/fm-download "View this project on npm")
+
 A simple CLI to download full Frontend Masters courses to watch off-line.
 
 ## Instalation
