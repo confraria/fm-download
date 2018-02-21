@@ -1,6 +1,6 @@
 {
   "name": "fm-download",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CLI to download Frontend Masters courses",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,8 @@
   "license": "MIT",
   "dependencies": {
     "args": "3.0.8",
-    "request": "2.83.0"
+    "request": "2.83.0",
+    "sanitize-filename": "1.6.1"
   },
   "devDependencies": {
     "eslint": "4.16.0",
