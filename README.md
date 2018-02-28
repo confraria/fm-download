@@ -9,6 +9,10 @@ A simple CLI to download full Frontend Masters courses to watch off-line.
 npm install fm-download -g
 ````
 
+## Requirements
+
+* Node v8.3 or higher
+
 ## Usage
 
 ```
